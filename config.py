@@ -2,7 +2,7 @@ from pathlib import Path
 
 SEED = 42
 
-DATA_DIR = Path("/data")
+DATA_DIR = Path("data")
 RAW_DIR = DATA_DIR / "raw"
 PROCESSED_DIR = DATA_DIR / "processed"
 
